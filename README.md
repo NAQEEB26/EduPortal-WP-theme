@@ -27,7 +27,7 @@ Clone the theme into the WordPress themes folder:
 ```bash
 cd C:/laragon/www/eduportal/wp-content/themes
 git clone https://github.com/naqeeb26/EduPortal-WP-Theme.git
-
+```
 
 🎨 Step 3: Activate the Theme
 1️⃣ Log in to WordPress Admin Panel (eduportal.test/wp-admin).
