@@ -98,7 +98,8 @@ EduPortal/
 └── style.css
 
 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome! 
+For major changes, please open an issue first to discuss what you would like to change.
 
 
 
@@ -107,36 +108,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 
 
-
-## Browser Support
-
-🖥️ Chrome (latest)  
-🖥️ Firefox (latest)  
-🖥️ Safari (latest)  
-🖥️ Edge (latest)  
-📱 Mobile Safari  
-📱 Chrome for Android  
-
-## Credits
-
-- Font Awesome Icons
-- Google Fonts (Poppins)
-- WordPress Core
-
-## Changelog
-
-### 1.0 (April 2025)
-- Initial release
-- Added custom post types
-- Implemented responsive design
-- Created custom templates
-
-## Support
-
-For theme support, please contact:  
-📧 info@eduportal.pk  
-📞 +92 309 1920336  
-
----
-
-© 2025 EduPortal. All rights reserved.
