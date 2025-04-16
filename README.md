@@ -4,14 +4,6 @@ EduPortal is a modern, responsive, and highly customizable WordPress theme desig
 
 ---
 
-## 📌 Features  
-✅ Clean and professional UI/UX  
-✅ Fully responsive and mobile-friendly  
-✅ Custom header and footer  
-✅ Fast and lightweight  
-✅ Optimized for SEO  
-
----
 
 ## 🚀 Installation Guide (Using Laragon)  
 Follow these steps to install and set up EduPortal on **Laragon (Localhost)**:  
@@ -34,9 +26,117 @@ git clone https://github.com/naqeeb26/EduPortal-WP-Theme.git
 2️⃣ Go to Appearance → Themes.
 3️⃣ Find EduPortal and click Activate.
 
+
 ✅ Step 4: Customize and Use
 Now, you can start customizing EduPortal from WordPress Customizer. 🎉
+## Customization Options
+
+### Via Customizer (Appearance > Customize)
+- **Site Identity**: Logo, Title, Tagline
+- **Colors**: Primary color scheme
+- **Header Settings**: Contact information
+- **Footer Settings**: About text, contact details
+- **Additional CSS**: Custom styling
+
+### Via WordPress Admin
+- **Menus**: Appearance > Menus
+- **Posts/Pages**: Manage all content
+
+## Recommended Plugins
+
+🔹 **Elementor** - For advanced page building  
+🔹 **Contact Form 7** - For creating forms  
+🔹 **Yoast SEO** - For SEO optimization  
+
+### Key Features
+✅ Clean and professional UI/UX  
+✅ Fully responsive and mobile-friendly  
+✅ Custom / Dynamic header and footer  
+✅ Fast and lightweight  
+✅ Optimized for SEO 
+✅ Custom Logo Support  
+✅ Multiple Menu Locations (Primary, Footer)  
+✅ Featured Image Support  
+✅ Custom Backgrounds  
+ 
+
+🎨 Customizer Options:
+- Logo upload
+- Contact information
+- Color schemes
+- Header/footer customization
+
+### Page Templates
+📄 `front-page.php` - Custom homepage template  
+📄 `category.php` -  category template  
+📄 `single.php` - Single post template  
+📄 `page.php` - Default page template  
+📄 `archive.php` - Archive template 
+
+## Theme Structure
+EduPortal/
+├── assets/
+│ ├── css/
+│ │ └── main.css
+│ └── js/
+│ └── main.js
+├── inc/
+│ └── customizer.php
+├── template-parts/
+│ ├── content-page.php
+│ └── content.php
+├── archive.php
+├── category.php
+├── comments.php
+├── footer.php
+├── front-page.php
+├── functions.php
+├── header.php
+├── index.php
+├── page.php
+├── single.php
+└── style.css
 
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
+
+
+
+
+
+
+
+
+## Browser Support
+
+🖥️ Chrome (latest)  
+🖥️ Firefox (latest)  
+🖥️ Safari (latest)  
+🖥️ Edge (latest)  
+📱 Mobile Safari  
+📱 Chrome for Android  
+
+## Credits
+
+- Font Awesome Icons
+- Google Fonts (Poppins)
+- WordPress Core
+
+## Changelog
+
+### 1.0 (April 2025)
+- Initial release
+- Added custom post types
+- Implemented responsive design
+- Created custom templates
+
+## Support
+
+For theme support, please contact:  
+📧 info@eduportal.pk  
+📞 +92 309 1920336  
+
+---
+
+© 2025 EduPortal. All rights reserved.
