@@ -73,29 +73,6 @@ Now, you can start customizing EduPortal from WordPress Customizer. 🎉
 📄 `page.php` - Default page template  
 📄 `archive.php` - Archive template 
 
-## Theme Structure
-EduPortal/
-├── assets/
-│ ├── css/
-│ │ └── main.css
-│ └── js/
-│ └── main.js
-├── inc/
-│ └── customizer.php
-├── template-parts/
-│ ├── content-page.php
-│ └── content.php
-├── archive.php
-├── category.php
-├── comments.php
-├── footer.php
-├── front-page.php
-├── functions.php
-├── header.php
-├── index.php
-├── page.php
-├── single.php
-└── style.css
 
 🤝 Contributing
 Pull requests are welcome! 
